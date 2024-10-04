@@ -35,6 +35,7 @@
   margin: 0 0 0 64px;
   line-height: 96px;
   font-size: 102px;
+  z-index: 3;
 }
 
 .header__subtitle{
