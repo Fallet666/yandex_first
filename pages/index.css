@@ -30,23 +30,22 @@
 @import url(../block/two-columns/__paragraph/_margin_top/two-columns__paragraph_margin_top.css);
 @import url(../block/two-columns/__span-accent/two-columns__span-accent.css);
 
- /* секция techniques */
- @import url(../block/techniques/techniques.css);
+/* секция techniques */
+@import url(../block/techniques/techniques.css);
 
- /* cards */
- @import url(../block/cards/cards.css);
- @import url(../block/cards/__item/cards__item.css);
- @import url(../block/cards/__image/cards__image.css);
- @import url(../block/cards/__title/cards__title.css);
- @import url(../block/cards/__description/cards__description.css);
+/* cards */
+@import url(../block/cards/cards.css);
+@import url(../block/cards/__item/cards__item.css);
+@import url(../block/cards/__image/cards__image.css);
+@import url(../block/cards/__title/cards__title.css);
+@import url(../block/cards/__description/cards__description.css);
 
+/* video */
+@import url(../block/video/video.css);
+@import url(../block/video/__iframes/video__iframes.css);
+@import url(../block/video/__iframe/video__iframe.css);
 
- /* video */
- @import url(../block/video/video.css);
- @import url(../block/video/__iframes/video__iframes.css);
- @import url(../block/video/__iframe/video__iframe.css);
-
- /* секция oakley */
+/* секция oakley */
 @import url(../block/oakley/oakley.css);
 
 /* секция feynman */
@@ -58,7 +57,6 @@
 
 /* секция digits */
 @import url(../block/digits/digits.css);
-
 
 /* table */
 @import url(../block/table/table.css);
